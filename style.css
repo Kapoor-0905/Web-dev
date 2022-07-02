@@ -1,0 +1,93 @@
+.html {
+    background-image: url(html.png);
+    background-size: cover;
+    height: 400px;
+}
+
+.css {
+    background-image: url(css.png);
+    background-size: cover;
+    height: 400px;
+}
+
+.js {
+    background-image: url(js.png);
+    background-size: cover;
+    height: 400px;
+}
+
+.php {
+    background-image: url(php.jpg);
+    background-size: cover;
+    height: 400px;
+}
+
+.sql {
+    background-image: url(sql.jpg);
+    background-size: cover;
+    height: 400px;
+}
+
+.bst {
+    background-image: url(bst.webp);
+    background-size: cover;
+    height: 400px;
+}
+
+.react {
+    background-image: url(react\,png);
+    background-size: cover;
+    height: 400px;
+}
+
+.ptext {
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 27px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+.textBg {
+    background-image: linear-gradient(to right, #326792, rgb(131, 53, 53), #923262);
+    color: #fff;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.textbg {
+    background-image: linear-gradient(to right, rgb(0, 255, 170) 0%, rgb(255, 166, 0) 59%, rgb(0, 92, 128) 100%);
+    color: black;
+    padding: 20px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.textbg a {
+    color: black;
+    text-decoration: none;
+}
+
+.txt {
+    background-image: linear-gradient(to right, #168838, #253b83);
+    color: #ddd;
+    padding: 50px 80px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.html,
+.css,
+.js,
+.php,
+.bst,
+.sql,
+.react {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
